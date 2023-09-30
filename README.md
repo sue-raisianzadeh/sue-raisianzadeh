@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there 👋 I'm Sue.🌱😄 
+✨ Thank you for visiting! ✨
+You can see my portfolio on this address:
+https://sue-portofolio.up.railway.app
 <!--
 **sue-raisianzadeh/sue-raisianzadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
