@@ -3,7 +3,7 @@
 
  
 ✨ Thank you for visiting! ✨
-- 🔭 I’m currently working on realtime chatroom with media using reactjs, scss, firebase
+- 🔭 I’m currently working on realtime chatroom with media using reactjs, scss and firebase
 
 You can see my portfolio on this address:
 
