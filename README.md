@@ -1,5 +1,5 @@
 
-### Hi there 👋 I'm Sue.🌱💪🙂😺💪 
+### Hi there 👋 I'm Sue.🌱💪🙂💪😺
 
  
 ✨ Thank you for visiting! ✨
