@@ -4,9 +4,10 @@
  
 ✨ Thank you for visiting! ✨
 
-You can see my portfolio on this address:
-
+Please feel free to review my portfolio at: 
 https://sue-portofolio.up.railway.app
+for a closer look at my work
+
 <!--
 **sue-raisianzadeh/sue-raisianzadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
